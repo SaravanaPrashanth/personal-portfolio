@@ -33,7 +33,7 @@ const AboutSection = () => {
           <div className="relative">
             <div className="relative z-10">
               <img
-                src="https://github.com/SaravanaPrashanth/personal-portfolio/blob/master/src/IMG_5864.JPG"
+                src="src/IMG_5864.JPG"
                 alt="Saravana Prashanth"
                 className="w-full max-w-md mx-auto rounded-2xl shadow-2xl"
               />
