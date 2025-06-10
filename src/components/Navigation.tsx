@@ -59,7 +59,7 @@ const Navigation = () => {
                 </button>
               ))}
               <a
-                href="/resume.pdf"
+                href="/Saravana_Prashanth_Kamalakannan_Resume.pdf"
                 download
                 className={`inline-flex items-center px-4 py-2 text-sm font-medium rounded-full transition-all duration-300 hover:scale-105 ${
                   isScrolled 
