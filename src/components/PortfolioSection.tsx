@@ -8,8 +8,8 @@ const PortfolioSection = () => {
       description: "A detailed R-based analysis exploring how socio‑economic variables and historical mortality impacted life expectancy trends in England and Wales.",
       image: "/Screenshot 2025-03-04 212748.png",
       technologies: ["R", "dplyr", "ggplot2", "tidyr"],
-      liveUrl: "https://www.datascienceportfol.io/ksaravanaprashanth",
-      githubUrl: "https://github.com/SaravanaPrashanth/life-expectancy-analysis",
+      liveUrl: "https://saravanaprashanth.github.io/SocioHealthViz/",
+      githubUrl: "https://github.com/SaravanaPrashanth/SocioHealthViz",
       featured: true
     },
     {
@@ -17,8 +17,8 @@ const PortfolioSection = () => {
       description: "An end‑to‑end analytics project analysing retail sales data to uncover top revenue products, regional trends, and growth opportunities.",
       image: "/Data Analysis Project.drawio.png",
       technologies: ["Python", "SQL", "Jupyter Notebook", "Pandas"],
-      liveUrl: "https://www.datascienceportfol.io/ksaravanaprashanth",
-      githubUrl: "https://github.com/SaravanaPrashanth/retail-sales-analytics",
+      liveUrl: "https://saravanaprashanth.github.io/data-analysis/",
+      githubUrl: "https://github.com/SaravanaPrashanth/data-analysis",
       featured: true
     }
     /*,
