@@ -20,17 +20,18 @@ const PortfolioSection = () => {
       liveUrl: "https://saravanaprashanth.github.io/data-analysis/",
       githubUrl: "https://github.com/SaravanaPrashanth/data-analysis",
       featured: true
-    }
-    /*,
-    {
-      title: "Analytics Dashboard",
-      description: "A comprehensive data visualization dashboard for business intelligence, featuring interactive charts, real-time data processing, and custom reporting.",
-      image: "https://images.pexels.com/photos/590020/pexels-photo-590020.jpeg?auto=compress&cs=tinysrgb&w=600",
-      technologies: ["React", "D3.js", "Python", "PostgreSQL"],
-      liveUrl: "#",
-      githubUrl: "#",
-      featured: false
     },
+    
+    {
+      title: "Pancreas Segmentation using U-NET",
+      description: "Pancreas segmentation in CT scans using a U-NET architecture. This deep learning model supports precise medical image analysis, improving diagnostic accuracy and efficiency in healthcare.",
+      image: "public/final-output-visualization-RANDOM.png",
+      technologies: ["Python", "Tensorflow", "Keras", "U-NET", "OpenCV", "Numpy", "Machine learning"],
+      liveUrl: "https://saravanaprashanth.github.io/Pancreas-Segmentation-using-U-NET-Architecture/",
+      githubUrl: "https://github.com/SaravanaPrashanth/personal-portfolio",
+      featured: true
+    }
+    /*
     {
       title: "Social Media Platform",
       description: "A social networking platform with real-time messaging, content sharing, and community features built for scale and performance.",
