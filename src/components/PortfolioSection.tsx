@@ -28,7 +28,7 @@ const PortfolioSection = () => {
       image: "/final-output-visualization-RANDOM.png",
       technologies: ["Python", "Tensorflow", "Keras", "U-NET", "OpenCV", "Numpy", "Machine learning"],
       liveUrl: "https://saravanaprashanth.github.io/Pancreas-Segmentation-using-U-NET-Architecture/",
-      githubUrl: "https://github.com/SaravanaPrashanth/personal-portfolio",
+      githubUrl: "https://github.com/SaravanaPrashanth/Pancreas-Segmentation-using-U-NET-Architecture",
       featured: true
     }
     /*
