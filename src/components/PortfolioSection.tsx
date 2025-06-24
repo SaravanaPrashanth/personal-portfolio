@@ -25,7 +25,7 @@ const PortfolioSection = () => {
     {
       title: "Pancreas Segmentation using U-NET",
       description: "Pancreas segmentation in CT scans using a U-NET architecture. This deep learning model supports precise medical image analysis, improving diagnostic accuracy and efficiency in healthcare.",
-      image: "public/final-output-visualization-RANDOM.png",
+      image: "/final-output-visualization-RANDOM.png",
       technologies: ["Python", "Tensorflow", "Keras", "U-NET", "OpenCV", "Numpy", "Machine learning"],
       liveUrl: "https://saravanaprashanth.github.io/Pancreas-Segmentation-using-U-NET-Architecture/",
       githubUrl: "https://github.com/SaravanaPrashanth/personal-portfolio",
