@@ -34,7 +34,7 @@ const PortfolioSection = () => {
         {
       title: "DesignForge – AI for Product Creators",
       description: "Developed for Google Nano-Banana Hackathon, this AI-powered application revolutionizes product photography for small businesses by enabling zero-cost prototyping and instant marketing asset generation using Gemini 2.5 Flash Image.",
-      image: "/designforge-preview.png",
+      image: "src/designforge-preview.png",
       technologies: ["Google AI Studio", "Gemini 2.5 Flash", "ElevenLabs", "CapCut", "API Integration"],
       liveUrl: "https://designforge-ai-mood-8cd6.bolt.host/",
       githubUrl: "https://www.kaggle.com/competitions/banana/writeups/designforge",
