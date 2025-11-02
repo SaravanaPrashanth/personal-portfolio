@@ -30,6 +30,49 @@ const PortfolioSection = () => {
       liveUrl: "https://saravanaprashanth.github.io/Pancreas-Segmentation-using-U-NET-Architecture/",
       githubUrl: "https://github.com/SaravanaPrashanth/Pancreas-Segmentation-using-U-NET-Architecture",
       featured: true
+    },
+        {
+      title: "DesignForge – AI for Product Creators",
+      description: "Developed for Google Nano-Banana Hackathon, this AI-powered application revolutionizes product photography for small businesses by enabling zero-cost prototyping and instant marketing asset generation using Gemini 2.5 Flash Image.",
+      image: "/designforge-preview.png",
+      technologies: ["Google AI Studio", "Gemini 2.5 Flash", "ElevenLabs", "CapCut", "API Integration"],
+      liveUrl: "https://designforge-ai-mood-8cd6.bolt.host/",
+      githubUrl: "https://www.kaggle.com/competitions/banana/writeups/designforge",
+      featured: true
+    },
+    {
+      title: "AI-Powered Fundraising Campaign Generator",
+      description: "Led a team of 4 in developing an innovative AI-driven solution for generating multimedia fundraising campaign content for charities. Created two approaches: an AI interviewer system for guided content creation and a minimal-input generation system using multiple LLMs.",
+      image: "/fundraising-campaign-preview.png",
+      technologies: ["ChatGPT", "Claude", "Grok", "Prompt Engineering", "Canva", "LLM"],
+      documents: {
+        approach1: {
+          title: "AI Interviewer Approach",
+          url: "/fundraising-approach1.pdf"
+        },
+        approach2: {
+          title: "Minimal-Input Generation",
+          url: "/fundraising-approach2.pdf"
+        }
+      },
+      featured: true
+    },
+    {
+      title: "NHS Antidepressant Prescribing Analysis (2021-2024)",
+      description: "Conducted comprehensive longitudinal analysis of antidepressant prescribing patterns across England NHS, analyzing over 300M records. Uncovered key trends in prescription volumes (83M to 78M) and costs (£290M to £210M), regional disparities, and drug-specific patterns, providing actionable insights for healthcare policy.",
+      image: "/nhs-analysis-cover.png",
+      technologies: ["Python", "Data Analysis", "Jupyter Notebook", "Public Health", "Healthcare Analytics"],
+      documents: {
+        report: {
+          title: "View Full Analysis",
+          url: "/nhs-analysis-report.pdf"
+        },
+        certificate: {
+          title: "View Certificate",
+          url: "/nhs-analysis-certificate.pdf"
+        }
+      },
+      featured: true
     }
     /*
     {
